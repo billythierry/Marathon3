@@ -1,0 +1,90 @@
+header{
+    position: static;
+    text-align: center;
+    background-color: #17b2ff;
+    color: white;
+    
+}
+
+nav{
+    background-color: #ff5d17;
+    padding: 10px;
+    
+}
+
+nav ul{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+nav li{
+    display: inline-block;
+    font-size: 15px;
+    color: white;
+}
+
+main{
+    max-width: 100%;
+    width: 1200px
+}
+
+.ilcIG{
+    width: 600px;
+    height: 200px;
+}
+
+.Profil{
+    color: #17b2ff;
+    background-color: white;
+    border-style: outset;
+    
+}
+
+.textProfil{
+    color: black;
+}
+
+.Kegiatan{
+    color: #17b2ff;
+    background-color: white;
+    border-style: outset;
+}
+
+.event{
+    width: 600px;
+    height: 50%;
+}
+
+.textKegiatan{
+    color: black;
+}
+
+.textRegistrasi{
+    color: #17b2ff;
+    background-color: white;
+    border-style: outset;
+}
+
+
+
+.Registrasi{
+    color:#17b2ff;;
+}
+
+.sectionRegis{
+    border-style: outset;
+    background-color: white;
+}
+
+.logo{
+    width: 300px;
+    height: 300px;
+}
+
+footer{
+    position: static;
+    text-align: center;
+    background-color: #17b2ff;
+    color: white;
+}
